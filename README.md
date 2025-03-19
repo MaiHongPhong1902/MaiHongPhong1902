@@ -3,7 +3,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ### Hello 🌎, I'm Phong Mai Hong
-
+- **Thành phố:** Hồ Chí Minh, Việt Nam
+- **Trường đại học:** Trường Đại học Sư phạm Kỹ thuật TP.HCM
+- **Chuyên môn:** Học sâu, Xử lý ngôn ngữ tự nhiên, Học máy
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -18,15 +20,10 @@
 
 <div align="center">
   <a href="https://github.com/RResabala2015">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Phong Mai Hong"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RResabala2015&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="RResabala2015" />
-  </a>
-</p>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
@@ -68,13 +65,6 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
     </tr>
 </table>
-
-------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
-
-|
-
 
 
 
