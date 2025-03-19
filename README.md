@@ -41,12 +41,12 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,sublime,arduino,matlab"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">FrameWork & Envỉonment Control:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">FrameWork & Environment Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,anaconda,gcp"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Others:</td>
