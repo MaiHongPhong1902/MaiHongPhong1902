@@ -7,13 +7,6 @@
 - **University:** Ho Chi Minh City University of Technology and Education
 - **Major:** Deep Learning, Natural Language Processing, Machine Learning
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/maihongphong1902" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Phong Mai Hong" height="40" width="60" ></i>
-</a>
-</p>
----
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
