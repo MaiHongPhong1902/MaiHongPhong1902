@@ -1,69 +1,70 @@
-# Hi there, I'm Mai Hong Phong 👋
+# Chào các bạn, tôi là Mai Hong Phong 👋
 
-![Profile Banner](https://github.com/MaiHongPhong1902/MaiHongPhong1902/blob/main/185536251_1093627444460160_2579889946358460195_n.jpg)
-)
+![Ảnh đại diện](https://github.com/MaiHongPhong1902/your-repository-name/raw/main/your-image.jpg)
 
-I'm a passionate AI engineer and software developer with expertise in deep learning, natural language processing (NLP), and machine learning.
+Tôi là một kỹ sư AI và phát triển phần mềm đam mê với chuyên môn về học sâu, xử lý ngôn ngữ tự nhiên và học máy.
 
-## 🚀 About Me
+## 🚀 Giới thiệu về tôi
 
-- 🌱 I’m currently studying **Computer Engineering** at **Ho Chi Minh University of Technology and Education**.
-- 👯 I’m looking to collaborate on **AI/Deep Learning, NLP, Cloud Computing** projects.
-- 💬 Ask me about **Python, TensorFlow, PyTorch, Deep Learning, NLP, AWS, SQL**.
-- 📫 How to reach me: **[Email me](mailto:maihongphong.work@gmail.com)**
+- 🌱 Hiện tôi đang theo học **Kỹ thuật Máy tính** tại **Trường Đại học Sư phạm Kỹ thuật TP.HCM**.
+- 👯 Tôi mong muốn hợp tác trong các dự án về **AI/Học sâu, Xử lý ngôn ngữ tự nhiên, Điện toán đám mây**.
+- 💬 Hãy hỏi tôi về **Python, TensorFlow, PyTorch, Học sâu, Xử lý ngôn ngữ tự nhiên, AWS, SQL**.
+- 📫 Cách liên hệ với tôi: **[Email](mailto:maihongphong.work@gmail.com)**
 
-## 🛠️ Skills
+## 🛠️ Kỹ năng
 
-- **Programming Languages:** Java, JavaScript, C/C++, Python
-- **Deep Learning Frameworks:** PyTorch, TensorFlow, CRNN, Coordiante Attention, Transfer Learning
-- **NLP Techniques:** CTC Decoding, RAG, Transformer Models
-- **Databases & Tools:** SQL (Snowflake, RedShift, PostgreSQL), AWS EC2, MATLAB, Git
+- **Ngôn ngữ lập trình:** Java, JavaScript, C/C++, Python
+- **Framework Học sâu:** PyTorch, TensorFlow, CRNN, Coordinate Attention, Transfer Learning
+- **Kỹ thuật Xử lý ngôn ngữ tự nhiên:** CTC Decoding, RAG, Transformer Models
+- **Cơ sở dữ liệu & Công cụ:** SQL (Snowflake, RedShift, PostgreSQL), AWS EC2, MATLAB, Git
 
-## 🎓 Education
+## 🎓 Giáo dục
 
-**Computer Engineering**  
-*Ho Chi Minh University of Technology and Education (HCMUTE)*  
+**Kỹ thuật Máy tính**  
+*Trường Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE)*  
 *GPA: 7.34*  
-*August 2020 - Present*
+*Tháng 8, 2020 - Hiện tại*
 
-## 💼 Experience
+## 💼 Kinh nghiệm
 
-### **AI Engineering Intern**  
-*FPT Software (August 2024 - November 2024)*  
-- Verified software reliability using diverse test datasets.
-- Built scalable AWS-based solutions with Snowflake and Redshift for data management.
-- Developed a data validation and reporting tool using pandas, matplotlib, and scikit-learn.
+### **Thực tập sinh AI Engineering**  
+*FPT Software (Tháng 8, 2024 - Tháng 11, 2024)*  
+- Xác minh độ tin cậy của phần mềm bằng cách sử dụng các bộ dữ liệu thử nghiệm đa dạng.
+- Xây dựng các giải pháp AWS quy mô lớn với Snowflake và Redshift cho quản lý dữ liệu.
+- Phát triển công cụ xác thực và báo cáo dữ liệu bằng pandas, matplotlib và scikit-learn.
 
-### **Research Project: CNN with Coordination for TB Detection**
-- Engineered a VGG16-based CNN integrated with Coordinate Attention mechanism, improving lesion localization accuracy by 18%.
-- Implemented transfer learning with frozen convolutional layers, reducing training time by 35% while maintaining 96.5% validation accuracy.
-- Applied data augmentation techniques to enhance model robustness on 7,000+ chest X-ray images.
+### **Dự án Nghiên cứu: CNN với Coordinate Attention cho Phát hiện Lao phổi**
+- Thiết kế CNN dựa trên VGG16 kết hợp với cơ chế Coordinate Attention, cải thiện độ chính xác định vị tổn thương lên 18%.
+- Thực hiện transfer learning với các lớp chập đóng băng, giảm thời gian huấn luyện 35% trong khi duy trì độ chính xác xác thực 96.5%.
+- Áp dụng kỹ thuật tăng cường dữ liệu (CLAHE, xoay ngẫu nhiên) để tăng cường độ bền của mô hình trên hơn 7,000 ảnh X-quang ngực.
 
-### **AI Vietnamese Handwriting Recognition (CRNN)**
-- Developed a CRNN architecture with BLSTM layers achieving 94.2% character accuracy on the VNOnDB dataset.
-- Integrated CTC decoding for variable-length sequence recognition, reducing transcription errors by 40% compared to rule-based systems.
+### **Nhận dạng Chữ viết tay tiếng Việt AI (CRNN)**
+- Phát triển kiến trúc CRNN với các lớp BLSTM đạt độ chính xác ký tự 94.2% trên tập dữ liệu VNOnDB.
+- Tích hợp giải mã CTC cho nhận dạng chuỗi có độ dài biến đổi, giảm lỗi phiên âm 40% so với hệ thống dựa trên quy tắc.
 
-### **RAG-Based Financial Chatbot**
-- Developed a RAG-based Finance Chatbot for financial query handling with detailed API integration.
-- Documented API usage, example queries, and system requirements.
+### **Chatbot Tài chính dựa trên RAG**
+- Phát triển Chatbot Tài chính dựa trên RAG với cấu trúc dự án có tổ chức (thu thập dữ liệu, lưu trữ, mô hình, cấu hình).
+- Thực hiện các tính năng chính cho xử lý truy vấn tài chính, với hướng dẫn cài đặt chi tiết và tích hợp API.
+- Tài liệu hóa việc sử dụng API, ví dụ truy vấn và các yêu cầu/khuyến cáo hệ thống.
 
-## 🏆 Certifications
+## 🏆 Chứng chỉ
 
 - **Practical Python for AI** (KAIST) – Coursera
 - **Generative AI** (DeepLearning.AI) – Coursera
 - **Machine Learning** (IBM) – Coursera
 - **AI Developer** (IBM) – Coursera
 
-## 🎥 Organizational & Volunteer Experience
+## 🌐 Liên kết với tôi
 
-**Director of Photography (DOP)**  
-*UTE TV - Ho Chi Minh City University of Technology and Education Television Channel*  
-- Responsible for ensuring high-quality visual elements during live broadcasts, engaging audiences, and maintaining professional standards.
+- [LinkedIn](https://www.linkedin.com/in/maihongphong1902/)
+- [Twitter](https://twitter.com/maihongphong1902)
+- [Blog](https://medium.com/@maihongphong1902)
+- [StackOverflow](https://stackoverflow.com/users/maihongphong1902)
 
-## 🌟 GitHub Stats
+## 🌟 Thống kê GitHub
 
-![MaiHongPhong1902's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiHongPhong1902&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Thống kê GitHub của Mai Hong Phong](https://github-readme-stats.vercel.app/api?username=MaiHongPhong1902&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
-Thanks for visiting my profile! 😄
+Cảm ơn bạn đã ghé thăm trang profile của tôi! 😄
