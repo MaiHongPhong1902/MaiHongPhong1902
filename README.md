@@ -1,6 +1,6 @@
 # Hi there, I'm Mai Hong Phong 👋
 
-![Profile Banner]([![185536251_1093627444460160_2579889946358460195_n](https://github.com/user-attachments/assets/c2ef72fc-a988-4372-94e7-5bde4e084ced)
+![Profile Banner](https://github.com/MaiHongPhong1902/MaiHongPhong1902/blob/main/185536251_1093627444460160_2579889946358460195_n.jpg)
 )
 
 I'm a passionate AI engineer and software developer with expertise in deep learning, natural language processing (NLP), and machine learning.
