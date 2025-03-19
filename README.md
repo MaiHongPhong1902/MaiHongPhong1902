@@ -1,6 +1,6 @@
 # Hi there, I'm Mai Hong Phong 👋
 
-![Profile Banner](https://your-banner-image-url.com)
+![Profile Banner]([https://your-banner-image-url.com](https://www.facebook.com/photo/?fbid=1451852851970949&set=a.112252635930984))
 
 I'm a passionate AI engineer and software developer with expertise in deep learning, natural language processing (NLP), and machine learning.
 
