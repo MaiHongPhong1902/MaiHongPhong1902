@@ -18,7 +18,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,nodejs,fastapi"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,C,Cpp,python,nodejs,fastapi"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
