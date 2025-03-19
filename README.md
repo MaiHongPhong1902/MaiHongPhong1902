@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,aws,dynamodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
@@ -41,8 +41,16 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,sublime,arduino,matlab"/></td>
     </tr>
     <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">FrameWork & Envỉonment Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,anaconda,gcp"/></td>
+    </tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Others:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=discord,bots,latex,ai,ps,pr"/></td>
     </tr>
 </table>
 
