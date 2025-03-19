@@ -18,7 +18,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,C,Cpp,python,nodejs,fastapi"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,c,cpp,python,nodejs,fastapi,firebase"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,sublime"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,sublime,arduino,matlab"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
