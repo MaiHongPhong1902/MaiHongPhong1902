@@ -51,6 +51,6 @@
 
 - **Email:** [maihongphong.work@gmail.com](mailto:maihongphong.work@gmail.com)
 - **LinkedIn:** [Mai Hong Phong](https://www.linkedin.com/in/maihongphong1902/)
-- **Phone:** [Mobile Phone](tel:+84865243215)
+- **Phone:** [0865243215](tel:+84865243215)
 
 
