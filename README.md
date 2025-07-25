@@ -6,6 +6,8 @@
 - **City:** Ho Chi Minh City, Vietnam
 - **University:** Ho Chi Minh City University of Technology and Education
 - **Major:** Deep Learning, Natural Language Processing, Machine Learning
+- **Experiment:** Manual testing, Automation testing
+- **Competition:** 
 ---
 <h3 align="left">Languages and Tools:</h3>
 <table>
