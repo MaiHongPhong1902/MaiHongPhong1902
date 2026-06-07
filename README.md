@@ -87,25 +87,66 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MaiHongPhong1902&cache_seconds=86400&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiHongPhong1902&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea" alt="Top Languages"/>
-</div>
+<!-- Thay tên repo, mô tả và link bằng project thật của bạn -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Vietnamese NLP Chatbot</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
+      <p align="center">Chatbot tiếng Việt sử dụng mô hình Transformer, hỗ trợ hỏi đáp và phân loại ý định người dùng.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902">🔗 View Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧪 Automation Testing Framework</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square"/>
+      </p>
+      <p align="center">Framework kiểm thử tự động cho web app với báo cáo chi tiết và tích hợp CI/CD.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902">🔗 View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Image Classification Model</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      </p>
+      <p align="center">Mô hình CNN phân loại ảnh với độ chính xác cao, triển khai qua REST API.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902">🔗 View Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Full-stack Web App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p align="center">Ứng dụng web full-stack với xác thực người dùng và quản lý dữ liệu thời gian thực.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902">🔗 View Repository</a></p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MaiHongPhong1902&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaiHongPhong1902&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
+## 🎯 Current Focus
 
-<!-- Activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiHongPhong1902&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff" width="95%" alt="Activity Graph"/>
-</div>
+```text
+🔭 Working on    : AI/NLP projects & Automation Testing
+🌱 Learning      : Large Language Models (LLMs) · MLOps · RAG systems
+👯 Open to       : Collaboration on AI & Testing projects
+💬 Ask me about  : Deep Learning · NLP · Python · Test Automation
+🎯 2026 Goal     : Build & ship a production-ready AI product
+```
 
 ---
 
@@ -124,12 +165,6 @@ me.say_hi()
   </a>
 
 </div>
-
-<!-- Snake animation: BỎ COMMENT block dưới SAU KHI đã setup GitHub Action (Platane/snk), nếu không ảnh sẽ lỗi 404
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MaiHongPhong1902/MaiHongPhong1902/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
--->
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
