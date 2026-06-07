@@ -90,8 +90,8 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MaiHongPhong1902&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiHongPhong1902&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MaiHongPhong1902&cache_seconds=86400&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiHongPhong1902&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea" alt="Top Languages"/>
 </div>
 
 <div align="center">
