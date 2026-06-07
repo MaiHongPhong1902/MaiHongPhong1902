@@ -102,14 +102,14 @@ me.say_hi()
       <p align="center"><a href="https://github.com/MaiHongPhong1902/Facebook-RAG-Chatbot">🔗 View Repository</a></p>
     </td>
     <td width="50%">
-      <h3 align="center">📰 ADBot — AI News Analyzer</h3>
+      <h3 align="center">📝 HTML2Obsidian</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-667eea?style=flat-square"/>
-        <img src="https://img.shields.io/badge/AI%20Summarization-764ba2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
       </p>
-      <p align="center">Công cụ tự động phân tích nội dung bài viết trên báo điện tử, sử dụng AI để tóm tắt và phân tích nội dung.</p>
-      <p align="center"><a href="https://github.com/MaiHongPhong1902/ADBot">🔗 View Repository</a></p>
+      <p align="center">Công cụ chuyển đổi nội dung HTML sang định dạng Markdown cho Obsidian, hỗ trợ lưu trữ và quản lý kiến thức hiệu quả.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902/HTML2Obsidian">🔗 View Repository</a></p>
     </td>
   </tr>
   <tr>
