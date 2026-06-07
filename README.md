@@ -89,49 +89,71 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-<!-- Thay tên repo, mô tả và link bằng project thật của bạn -->
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Vietnamese NLP Chatbot</h3>
+      <h3 align="center">💬 Facebook RAG Chatbot</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RAG-764ba2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LLM-667eea?style=flat-square"/>
       </p>
-      <p align="center">Chatbot tiếng Việt sử dụng mô hình Transformer, hỗ trợ hỏi đáp và phân loại ý định người dùng.</p>
-      <p align="center"><a href="https://github.com/MaiHongPhong1902">🔗 View Repository</a></p>
+      <p align="center">Chatbot thông minh sử dụng RAG (Retrieval-Augmented Generation) để phân tích và trả lời câu hỏi, tích hợp các công nghệ AI tiên tiến.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902/Facebook-RAG-Chatbot">🔗 View Repository</a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🧪 Automation Testing Framework</h3>
+      <h3 align="center">📰 ADBot — AI News Analyzer</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-667eea?style=flat-square"/>
+        <img src="https://img.shields.io/badge/AI%20Summarization-764ba2?style=flat-square"/>
       </p>
-      <p align="center">Framework kiểm thử tự động cho web app với báo cáo chi tiết và tích hợp CI/CD.</p>
-      <p align="center"><a href="https://github.com/MaiHongPhong1902">🔗 View Repository</a></p>
+      <p align="center">Công cụ tự động phân tích nội dung bài viết trên báo điện tử, sử dụng AI để tóm tắt và phân tích nội dung.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902/ADBot">🔗 View Repository</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 Image Classification Model</h3>
+      <h3 align="center">🐦 Kaggle BirdCLEF 2025</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Audio%20Processing-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
       </p>
-      <p align="center">Mô hình CNN phân loại ảnh với độ chính xác cao, triển khai qua REST API.</p>
-      <p align="center"><a href="https://github.com/MaiHongPhong1902">🔗 View Repository</a></p>
+      <p align="center">Pipeline nhận diện tiếng chim cho cuộc thi BirdCLEF-2025: xử lý audio, trích xuất mel spectrogram và huấn luyện mô hình deep learning.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902/Kaggle-BirdCLEF-2025-Base-Training">🔗 View Repository</a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Full-stack Web App</h3>
+      <h3 align="center">🤖 Hydra Agent</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20Agent-667eea?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LLM-764ba2?style=flat-square"/>
       </p>
-      <p align="center">Ứng dụng web full-stack với xác thực người dùng và quản lý dữ liệu thời gian thực.</p>
-      <p align="center"><a href="https://github.com/MaiHongPhong1902">🔗 View Repository</a></p>
+      <p align="center">Hệ thống AI Agent tự động hóa tác vụ, được phát triển và cập nhật liên tục.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902/Hydra-Agent">🔗 View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⌨️ CLI Agent</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CLI-339933?style=flat-square&logo=gnubash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20Agent-667eea?style=flat-square"/>
+      </p>
+      <p align="center">AI Agent chạy trên dòng lệnh, hỗ trợ tự động hóa các tác vụ qua giao diện terminal.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902/CLI-Agent">🔗 View Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐞 Create BUG Ticket</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/QA%20Testing-43B02A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Automation-FF6C37?style=flat-square"/>
+      </p>
+      <p align="center">Công cụ tự động tạo bug ticket, hỗ trợ quy trình kiểm thử và báo cáo lỗi hiệu quả hơn.</p>
+      <p align="center"><a href="https://github.com/MaiHongPhong1902/create_BUG_ticket">🔗 View Repository</a></p>
     </td>
   </tr>
 </table>
